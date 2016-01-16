@@ -1,0 +1,38 @@
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\bin\Debug\NiceButtonInWPF.exe.config
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\bin\Debug\NiceButtonInWPF.exe
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\bin\Debug\NiceButtonInWPF.pdb
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\bin\Debug\NiceButtonInWPF.xml
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.vbprojResolveAssemblyReference.cache
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\Controls\NiceButton.g.vb
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\MainWindow.g.vb
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\Application.g.vb
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\NiceButtonInWPF_MarkupCompile.cache
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\NiceButtonInWPF_MarkupCompile.lref
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\Controls\NiceButton.baml
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\MainWindow.baml
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.g.resources
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.Resources.resources
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.vbproj.GenerateResource.Cache
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.exe
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.xml
+C:\Users\Kristian\AppData\Local\Temporary Projects\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.pdb
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\bin\Debug\NiceButtonInWPF.exe.config
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.exe
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.xml
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.pdb
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\bin\Debug\NiceButtonInWPF.exe
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\bin\Debug\NiceButtonInWPF.pdb
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\bin\Debug\NiceButtonInWPF.xml
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.vbprojResolveAssemblyReference.cache
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\Controls\NiceButton.g.vb
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\MainWindow.g.vb
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\Application.g.vb
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\NiceButtonInWPF_MarkupCompile.cache
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\NiceButtonInWPF_MarkupCompile.lref
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\Controls\NiceButton.baml
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\MainWindow.baml
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.g.resources
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.Resources.resources
+C:\GitHubMe\NiceButtonInWPF\NiceButtonInWPF\obj\Debug\NiceButtonInWPF.vbproj.GenerateResource.Cache
